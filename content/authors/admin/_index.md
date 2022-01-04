@@ -3,7 +3,7 @@
 title: Yiting(Crisp) Duan
 
 # Is this the primary user of the site?
-superuser: true
+role: Reliability and System Engineering @ Beihang University
 
 # Role/position/tagline
 role: Professor of Artificial Intelligence
