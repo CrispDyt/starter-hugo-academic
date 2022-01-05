@@ -1,7 +1,7 @@
 ---
 title: Optimal research in parameters of Circuit
 subtitle: Using several optional methods to optimize paremeters in circuit
-date: 2021-12-01T04:26:04.853Z
+date: 2021-12-15T04:33:55.269Z
 summary: Engineering Research in Optimization with **Prof. Peng Wang's Team @BUAA**
 draft: false
 featured: false
