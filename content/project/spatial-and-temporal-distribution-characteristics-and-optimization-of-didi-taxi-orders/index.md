@@ -21,3 +21,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+In this project, we organized the order data of Didi in Chengdu, analyzed the data by time series analysis, dynamic analysis, grouping analysis and principles of kernel density estimation. Next we concluded time and space characteristics of the Didi Taxi orders, proposed the corresponding optimization measures, and analyzed the expected effect by the analytic hierarchy process. Finially, we established model to calculate relevant indexes and located the most effective measures, output final research report.
