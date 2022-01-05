@@ -17,7 +17,7 @@ links:
     icon: github
     name: Go to Project Site
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
