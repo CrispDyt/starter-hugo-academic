@@ -11,7 +11,7 @@ tags:
   - Uncertainty Qualification
   - C++
 links:
-  - url: github
+  - icon: github
     icon_pack: fab
     icon: https://github.com/soszhangyue/UQPackage
     name: Go to Project Site
