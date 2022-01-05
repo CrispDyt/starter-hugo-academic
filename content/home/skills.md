@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 10
-title: skill
+title: skills
 subtitle: null
 feature:
   - description: Engineering level
