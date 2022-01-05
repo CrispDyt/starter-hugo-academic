@@ -23,7 +23,7 @@ education:
 email: ""
 highlight_name: true
 ---
-**Yiting (Crisp) Duan** is an undergraduate student in **Reliability and System Engineering(RSE)** at **Beihang University**.
+**Yiting (Crisp) Duan** is an undergraduate student in **Reliability and System Engineering(RSE)** and minor in **Economy** at **Beihang University**.
 
 After graduation, he plans to pursue graduate study in **Stochastics** or in **Numerical Stochastics Partial Differential Equation(nspde)**. His research interests broadly cover the interdisciplinary fields of Computational Science and Engineering & Uncertianty Qulification in Stochastic System, currently focusing on the generalized Polynominal Chaos applications of stochastic system with small probability in failure.
 
