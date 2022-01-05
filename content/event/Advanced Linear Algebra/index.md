@@ -18,6 +18,30 @@ links:
     name: Second Seminar Recording Code:rvim
     icon_pack: fas
     icon: bolt
+  - url: "https://pan.baidu.com/s/1JDTYEu7gnuvovTh6dJccOg "
+    name: Third Seminar Recording Code:dlnb
+    icon_pack: fas
+    icon: bolt
+  - url: "https://pan.baidu.com/s/1EPh526GJ3gP77pf_JdW-iQ "
+    name: Forth Seminar Recording Code:n0f3
+    icon_pack: fas
+    icon: bolt
+  - url: "https://pan.baidu.com/s/1HuEQDH2bKRM2QdMP8yEzaQ "
+    name: Fifth Seminar Recording Code:xts1
+    icon_pack: fas
+    icon: bolt
+  - url: "https://pan.baidu.com/s/1_s-eRwbDDdvgbSg6HEuGFg "
+    name: "Sixth Seminar Recording: dlnb"
+    icon_pack: fas
+    icon: bolt
+  - url: "https://pan.baidu.com/s/1ygAuymJbB5YpZgRjUvI5qw "
+    name: "The First Part of Seventh Seminar Recording Code:dlnb "
+    icon_pack: fas
+    icon: bolt
+  - url: "https://pan.baidu.com/s/1hWhr43Lbubj2Iw3f5PyAmg "
+    name: The Second Part of Seventh Seminar Recording Code:ufob
+    icon_pack: fas
+    icon: bolt
 event: Seminar
 event_url: https://crisp-dyt.com/talk/weekly-seminar-on-advanced-linear-algebra/
 featured: false
