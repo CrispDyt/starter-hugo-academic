@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 30
+weight: 10
 title: skill
 subtitle: null
 feature:
@@ -22,4 +22,7 @@ feature:
     icon_pack: custom
     name: Mysql
 widget_id: MY Skill
+design:
+  background:
+    image: icon.png
 ---
