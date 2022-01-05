@@ -1,9 +1,9 @@
 ---
 widget: featurette
 headless: true
-weight: 10
+weight: 30
 title: skills
-subtitle: null
+subtitle: 
 feature:
   - description: Engineering level
     icon: c
@@ -21,5 +21,5 @@ feature:
     icon: mysql
     icon_pack: custom
     name: Mysql
-widget_id: MY Skill
+
 ---
