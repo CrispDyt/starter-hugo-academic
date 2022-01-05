@@ -1,6 +1,6 @@
 ---
 title: Yiting(Crisp) Duan
-role: Student of Reliability and System Engineering @ Beihang University
+role: Student of Reliability and System Engineering @ Beihang University and minor in Economy
 avatar_filename: avatar.jpg
 bio: Computational Mathematics/Coder/Uncertianty Qualification/Knowing a little bit Economy
 interests:
