@@ -23,7 +23,7 @@ education:
       year: 2022
     - course: Economy
       institution: Beihang University
-      year: 2019
+      year: 2022
 email: ""
 superuser: false
 highlight_name: true
