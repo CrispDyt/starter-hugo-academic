@@ -9,13 +9,15 @@ address:
 
 
 summary: Seminar #01 on Advanced Linear Algebra
-abstract: Weekly seminar organized by Yiting (Crisp)Duan & Zhangziyan Jiang.
+abstract: Weekly seminar organized by [Yiting (Crisp)Duan](https://crisp-dyt.com/) & Zhangziyan Jiang.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-06-30T20:00:00Z"
+date_end: "2021-06-30T21:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: []
+publishDate: "2021-06-30T21:45:00Z"
 
 authors: []
 tags: []
@@ -30,7 +32,7 @@ image:
 links:
 - icon: bolt
   icon_pack: fas
-  name: Follow Organizer
+  name: Follow Organizer Code:mvpr
   url: https://pan.baidu.com/s/1Jb-mMLn8fHhORRD9EXCGgw 
 url_code: ""
 url_pdf: ""
