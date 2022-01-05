@@ -12,8 +12,9 @@ tags:
   - C++
 links:
   - url: github
-    icon_pack: ai
+    icon_pack: fab
     icon: https://github.com/soszhangyue/UQPackage
+    name: Go to Project Site
 image:
   filename: featured.jpg
 ---
