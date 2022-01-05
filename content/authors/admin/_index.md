@@ -25,7 +25,7 @@ education:
       institution: Beihang University
       year: 2019
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 **Yiting (Crisp) Duan** is an undergraduate student in **Reliability and System Engineering(RSE)** and  also have a duel-degree in **Economy** at **Beihang University**.
