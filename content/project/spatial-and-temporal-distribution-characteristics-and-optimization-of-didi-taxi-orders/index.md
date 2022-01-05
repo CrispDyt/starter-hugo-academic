@@ -15,6 +15,7 @@ links:
   - icon_pack: fab
     url: https://github.com/CrispDyt/Spatial-and-Temporal-Distribution-Characteristics-and-Optimization-of-Didi-Taxi-Orders
     icon: github
+    name: Go to Project Site
 image:
   filename: featured
   focal_point: Smart
