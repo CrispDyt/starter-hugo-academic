@@ -17,4 +17,6 @@ links:
     url: https://github.com/soszhangyue/UQPackage
 image:
   filename: featured.jpg
+  focal_point: Smart
 ---
+You could find our C++ code on github concerning gPC method via collocation method
