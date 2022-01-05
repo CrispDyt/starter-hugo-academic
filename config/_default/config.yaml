@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Yiting (Crisp) Duan" # Website name
-baseurl: 'https://crisp-dyt.com/' # Website URL
+baseurl: 'https://crisp-dyt404.netlify.app' # Website URL
 copyright: 'Copyright © 2022 Crisp Duan & [段宜廷]' # Footer text, e.g. '© {year} Me'
 
 ############################
