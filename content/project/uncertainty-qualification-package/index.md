@@ -10,11 +10,6 @@ tags:
   - gPC method
   - Uncertainty Qualification
   - C++
-links:
-  - icon: github
-    icon_pack: fab
-    icon: https://github.com/soszhangyue/UQPackage
-    name: Go to Project Site
 image:
   filename: featured.jpg
 ---
