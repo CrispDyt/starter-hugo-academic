@@ -19,7 +19,7 @@ links:
     icon_pack: fas
     icon: bolt
 event: Seminar
-event_url: https://pan.baidu.com/s/1Jb-mMLn8fHhORRD9EXCGgw
+event_url: https://crisp-dyt.com/talk/weekly-seminar-on-advanced-linear-algebra/
 featured: false
 authors: []
 url_video: ""
