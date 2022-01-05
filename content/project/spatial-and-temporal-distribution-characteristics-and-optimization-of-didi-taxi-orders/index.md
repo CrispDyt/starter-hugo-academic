@@ -7,10 +7,14 @@ summary: "*Big Data Project Practice, Course of System Engineering*  cooperated
   by **BeiHang Team**(@BUAA)"
 draft: false
 featured: false
-tags: 
-- Machine Learning
-- Data Analysis
-- optimization
+tags:
+  - Machine Learning
+  - Data Analysis
+  - optimization
+links:
+  - icon_pack: fab
+    url: https://github.com/CrispDyt/Spatial-and-Temporal-Distribution-Characteristics-and-Optimization-of-Didi-Taxi-Orders
+    icon: github
 image:
   filename: featured
   focal_point: Smart
