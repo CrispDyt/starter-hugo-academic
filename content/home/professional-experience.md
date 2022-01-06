@@ -10,7 +10,7 @@ headless: true
 weight: 41
 
 title: Professional Experiences
-subtitle: 
+subtitle: Orchestra leader & Intern Experiences
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+Intern experience:
 
   - title: Investment Research Intern
     company: Dongxing Securities 
