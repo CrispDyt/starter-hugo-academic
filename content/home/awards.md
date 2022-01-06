@@ -40,7 +40,7 @@ item:
     
   
   ◼ No.2 autosaxphone in the Woodwind 
-  ◼ Played two classical songs "Travelaer" & "FromAfar"
+  ◼ Played two classical songs "Travelaer" & "FromAfar""
   organization: Beijing Municipal Commission of Education
   organization_url: http://jw.beijing.gov.cn/jgdw/
   title: |2-
