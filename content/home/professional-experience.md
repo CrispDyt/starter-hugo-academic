@@ -25,7 +25,7 @@ experience:
 
   - title: Investment Research Intern
     company: Dongxing Securities 
-    company_url: 'https://http://www.dxzq.net/'
+    company_url: 'https://www.dxzq.net/'
     location: Beijing
     date_start: '2021-03-01'
     date_end: '2021-04-15'
