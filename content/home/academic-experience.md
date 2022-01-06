@@ -4,11 +4,7 @@ headless: true
 weight: 39
 title: Academic Experience
 subtitle: Public Economy & Computational Mathematics
-date_format: Jan 2006
-experience:
-
-  - title: Public Economic Policy Researcher
-    
+date_format: Jan 2006    
 
 design:
   columns: '2'
