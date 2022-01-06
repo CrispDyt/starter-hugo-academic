@@ -11,8 +11,8 @@ experience:
     company: School of Humanitie and Social Sciences of Beihang University
     company_url: 'http://hss.buaa.edu.cn/'
     location: Bei Jing
-    date_start: '2019-04'
-    date_end: '2020-04'
+    date_start: '2019-04-19'
+    date_end: '2020-06-20'
     description: |2-
         Responsibilities include:
         
