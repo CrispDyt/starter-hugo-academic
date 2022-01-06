@@ -24,15 +24,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-- certificate_url: 
-  date_end: ""
-  date_start: "2020-11-01"
-  description: "◼First-class National Encouragement Scholarship to award students with excellent academic"
-  organization: Beihang University (BUAA)
-  organization_url: https://www.buaa.edu.cn/
-  title: |2-
-    First-class National Encouragement Scholarship
-
 - certificate_url: "https://mp.weixin.qq.com/s/lx8pyRacWFrur-tVXakiYQ" 
   date_end: ""
   date_start: "2018-11-29"
@@ -48,6 +39,42 @@ item:
   title: |2-
     Gold Medal in 2018 Beijing University Music Festival 
  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-01-01"
+  description: "◼Second Prize of Beijing Competition Aera in the Chinese Mathematics Competitions"
+  organization: Chinese Mathematical Society (CMS)
+  organization_url: http://www.cms.org.cn/
+  title: |2-
+    Second Prize in the Chinese Mathematics Competitions
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-11-01"
+  description: "◼First-class National Encouragement Scholarship to award students with excellent academic"
+  organization: Beihang University (BUAA)
+  organization_url: https://www.buaa.edu.cn/
+  title: |2-
+    First-class National Encouragement Scholarship
+ 
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-11-01"
+  description: "◼Beihang University First-class Scholarship in the Academic Competition to Student with excellent performance in Adademic Competition"
+  organization: Beihang University (BUAA)
+  organization_url: https://www.buaa.edu.cn/
+  title: |2-
+    First-class Scholarship in the Academic Competition
+ 
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-11-01"
+  description: "◼Beihang University First-class Literary and Art Scholarship to Student with excellent performance in Literary and Art Competition"
+  organization: Beihang University (BUAA)
+  organization_url: https://www.buaa.edu.cn/
+  title: |2-
+    First-class Literary and Art Scholarship
+
 
 
 
