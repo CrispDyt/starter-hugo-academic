@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-Intern experience:
+experience:
 
   - title: Investment Research Intern
     company: Dongxing Securities 
@@ -47,6 +47,20 @@ Intern experience:
         
         * Built automatic software testing platform and used penetration testing method to test mobile app software;
         * Carried out and finished research report about mobile phone resolution based on Srez neural network
+
+  - title: Leader of Saxphone Group of Buaa Marching Band
+    company: Buaa Marching Band
+    company_url: 
+    location: Beijing
+    date_start: '2018-09-01'
+    date_end: 
+    description: |2-
+        Responsibilities include:
+        
+        * Leader of Saxphone Group of BUAA Marching band and helped to organized more than ten theatrical performance in Beihang University;
+        * Responsible for communications with other group and schedule the daily training plan of members 
+        * Attend 2018 Beijing University Music Festival with BUAA Marching Band and finally won the gold medal in Nov.2018
+        * Invited by the Royal Edinburgh Military Tatoo and became the first non-professional Orchestra Band and the Second Chinese Orchestra Band in the history to attend the 2019th Edinburgh Military Tattoo in Edinburgh
 
 
 design:
