@@ -7,6 +7,15 @@ subtitle: Public Economy & Computational Mathematics
 date_format: Jan 2006
 experience:
 
+  - title: Public Economic Policy Researcher
+    company: School of Humanitie and Social Sciences of Beihang University
+    company_url: 'http://hss.buaa.edu.cn/'
+    location: Bei Jing
+    description: |2-
+        Responsibilities include:
+        
+        * Worked on the research project of integrating several state-of-the-art Natural Language Processing models (like FinBERT, etc.) with Finance applications
+
 design:
   columns: '2'
   background:
