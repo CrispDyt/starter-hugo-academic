@@ -11,7 +11,7 @@ weight: 49
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
-subtitle:
+subtitle: Music(Orchestra Band) & Adademic Awards
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
