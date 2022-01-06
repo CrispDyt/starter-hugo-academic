@@ -27,7 +27,6 @@ experience:
   - title: Public Economic Policy Researcher
     company: School of Humanitie and Social Sciences of Beihang University
     company_url: 'http://hss.buaa.edu.cn/'
-    company_logo: aftechlab
     location: Beijing
     description: |2-
         Responsibilities include:
