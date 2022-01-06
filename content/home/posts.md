@@ -32,15 +32,12 @@ content:
   order: desc
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
+  # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   5 = Showcase
-  view: 3
+  #   4 = Citation (publication only)
+  view: 2
   background:
     # Name of image in `assets/media/`.
     image: image.jpg
@@ -54,7 +51,4 @@ design:
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
