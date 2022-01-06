@@ -21,21 +21,25 @@ design:
     text_color_light: true
 
 feature:
-  - description: Engineering level
+  - description: 
     icon: c
     icon_pack: custom
     name: C/C++
-  - description: Engineering level
+  - description: Scipy Numpy& Tensorflow
     icon: python
     icon_pack: custom
     name: Python
-  - description: Engineering level
+  - description: 
     icon: matlab
     icon_pack: custom
     name: MATLAB
-  - description: Engineering level
+  - description: 
     icon: mysql
     icon_pack: custom
     name: Mysql
+  - description: 
+    icon: spss
+    icon_pack: custom
+    name: SPSS
 
 ---
