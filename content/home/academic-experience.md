@@ -10,7 +10,7 @@ headless: true
 weight: 39
 
 title: Academic Experiences
-subtitle: Academic Experiences in Computational Mathematics and Economy
+subtitle: 
 
 
 # Date format for experience
