@@ -29,8 +29,6 @@ experience:
     company_url: 'http://hss.buaa.edu.cn/'
     company_logo: aftechlab
     location: Beijing
-    date_start: '2019'
-    date_end: '2020'
     description: |2-
         Responsibilities include:
         
