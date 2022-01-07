@@ -5,6 +5,7 @@ date: 2021-12-15T04:33:55.269Z
 summary: Engineering Research in Optimization with **Prof. Peng Wang's Team @BUAA**
 tags:
 - Optimal Research
+- C++
 draft: false
 featured: false
 links:
