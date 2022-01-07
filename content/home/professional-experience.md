@@ -61,6 +61,20 @@ experience:
         * Responsible for communications with other group and schedule the daily training plan of members 
         * Attend 2018 Beijing University Music Festival with BUAA Marching Band and finally won the gold medal in Nov.2018
         * Invited by the Royal Edinburgh Military Tatoo and became the first non-professional Orchestra Band and the Second Chinese Orchestra Band in the history to attend the 2019th Edinburgh Military Tattoo in Edinburgh
+ 
+- title: Member of Social Practice Team of Qiang Culture in Beichuan
+    company: Zhenzhen Social Practice Team
+    company_url: 
+    location: Beijing
+    date_start: '2019-01-06'
+    date_end: '2019-01-20'
+    description: |2-
+        Responsibilities include:
+        
+        * 
+        * 
+        * 
+        * 
 
 
 design:
