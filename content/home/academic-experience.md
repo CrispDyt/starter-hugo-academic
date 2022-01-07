@@ -18,7 +18,7 @@ experience:
         
        * As Prof Nie Chen's(@BUAA) research assistant, utilized Python to conduct data crawling and cleaning, applied statistical experise to carry out data analysis with SPSS, drew statistical pictures of data and analysed data
         * Underwent systematic data analysis on Python, SPSS, Blockchain & Statistical and Scientific Packages such as Pandas & Matplotlib etc.
-
+    
 design:
   columns: '2'
   background:
