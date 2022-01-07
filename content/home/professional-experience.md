@@ -64,7 +64,7 @@ experience:
  
 - title: Member of Social Practice Team of Qiang Culture in Beichuan
     company: Zhenzhen Social Practice Team
-    company_url:'https://mp.weixin.qq.com/s/PUjfxyn1Tt-BDk8_iBuunA'
+    company_url: 'https://mp.weixin.qq.com/s/PUjfxyn1Tt-BDk8_iBuunA'
     location: Beijing
     date_start: '2019-01-06'
     date_end: '2019-01-20'
