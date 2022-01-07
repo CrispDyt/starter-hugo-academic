@@ -72,7 +72,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Leader of Saxphone Group of BUAA Marching band and helped to organized more than ten theatrical performance in Beihang University
+        * Research construction and settlement work after 5-12 Wenchuan Earchquake
+        * Communicated with local community and government and established Social Research basement of ZhenZhen & Wenchan Museum
+        * Had an interview with an inheritance of Nonphysical Heritage Qiang and finally finished a research report
 
 design:
   columns: '2'
