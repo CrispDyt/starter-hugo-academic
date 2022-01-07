@@ -28,8 +28,8 @@ email: ""
 superuser: false
 highlight_name: true
 ---
-**Yiting (Crisp) Duan** is an undergraduate student in **Reliability and System Engineering(RSE)** with a dual-degree in **Economy** at **Beihang University**.
+I am an undergraduate student in **Reliability and System Engineering(RSE)** with a dual-degree in **Economy** at **Beihang University**.
 
-After graduation, he plans to pursue graduate study in **Stochastics** or in **Numerical Stochastics Partial Differential Equation(nspde)**. His research interests broadly cover the interdisciplinary fields of Computational Science and Engineering & Uncertianty Qulification in Stochastic System, currently focusing on the generalized Polynominal Chaos applications of stochastic system with small probability in failure.
+After graduation, I plan to pursue graduate study in **Stochastics** or in **Numerical Stochastic Differential Equation(nspde)**. My research interests broadly cover the interdisciplinary fields of Computational Mathematics and Uncertianty Qulification in Stochastic System, currently focusing on the generalized Polynominal Chaos applications of stochastic system with small probability in failure.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
