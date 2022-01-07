@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
-subtitle: ""
+title: Academic Notes
+subtitle: "My personal Notes in Computational Mathematics, Mathematics and Computational Science"
 
 content:
   # Page type to display. E.g. post, talk, publication...
