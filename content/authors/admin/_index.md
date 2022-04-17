@@ -2,13 +2,13 @@
 title: Yiting(Crisp) Duan
 role: Student of Reliability and System Engineering @ Beihang University
 avatar_filename: 00dbe6aa2c6c89a6cebd988e0a08ab1.jpg
-bio: Computational Mathematics/Coder/Uncertianty Qualification/Knowing a little
-  bit Economy
+bio: Uncertianty Qualification/Compuutational Fluid Mechanics/Computational
+  Mathematics/Knowing a little bit Economy
 interests:
-  - Numerical Method
+  - Uncertainty Quantification
+  - Numerical Method in SPDE
   - Machine Learning
   - Stochastics
-  - Mathematical Finance
 social:
   - icon: github
     icon_pack: fab
@@ -28,8 +28,10 @@ email: ""
 superuser: false
 highlight_name: true
 ---
-I am an undergraduate student in **Reliability and System Engineering(RSE)** with a dual-degree in **Economy** at **Beihang University**.
+I am an undergraduate student at grade 4 in **Reliability and System Engineering(RSE)** with a dual-degree in **Economy** at **Beihang University**.
 
-My research field lies in **Uncertainty Quantification** and my undergraduate professor is Wang Peng, an expert in uncertainty qualification graduated in UCSD**.** After graduation, driven by my academic enthusiasm in math, I plan to pursue graduate study in **Stochastics** or in **Numerical Stochastic Differential Equation(nspde)**. My research interests broadly cover the interdisciplinary fields of Computational Mathematics and Uncertianty Qulification in Stochastic System, currently focusing on the generalized Polynominal Chaos applications of stochastic system with small probability in failure.
+My research field lies in **Uncertainty Quantification(UQ)** and my undergraduate professor is Wang Peng, an expert in uncertainty qualification graduated in UCSD**.** After graduation, driven by my academic enthusiasm in math, I plan to pursue graduate study in **Stochastics** or in **Numerical Stochastic Differential Equation(nspde)**. My research interests broadly cover the interdisciplinary fields of Computational Mathematics and Uncertianty Qulification in Stochastic System, currently focusing on the generalized Polynominal Chaos applications of stochastic system with small probability in failure which is my undergraduate dissertation.
+
+I plan to devote myself in uncertainty qualification problems in Computational Fluid Mechanics and Turbulence during my graduate study in UM, especially in topics about **UQ Problems** both in **Fluid-Structure Interaction System in Human Blood Vessels** and **Two-Phase** **Flow in Human Blood** or **Porous Media.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
