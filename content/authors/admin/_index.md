@@ -1,7 +1,7 @@
 ---
 title: Yiting(Crisp) Duan
 role: Student of Reliability and System Engineering @ Beihang University
-avatar_filename: 00dbe6aa2c6c89a6cebd988e0a08ab1.jpg
+avatar_filename: avatar.jpg
 bio: Uncertianty Qualification/Compuutational Fluid Mechanics/Computational
   Mathematics/Knowing a little bit Economy
 interests:
