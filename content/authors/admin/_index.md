@@ -1,9 +1,9 @@
 ---
-title: Yiting(Crisp) Duan
+title: Yiting Duan
 role: Student of Reliability and System Engineering @ Beihang University
 avatar_filename: avatar.jpg
-bio: Uncertianty Qualification/Compuutational Fluid Mechanics/Computational
-  Mathematics/Knowing a little bit Economy
+bio: Uncertianty Qualification/Statistics/Computational Mathematics/Knowing a
+  little bit Economy
 interests:
   - Uncertainty Quantification
   - Numerical Method in SPDE
