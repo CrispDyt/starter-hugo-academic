@@ -23,9 +23,9 @@ T﻿he Poisson Equations are listed as follows:
 
 $﻿$\Delta$$
 
-![]( "2D Poisson Equation ")
+![](2d-poisson.png "2D Poisson Equation ")
 
-![]( "3D Poisson Equation ")
+![](3d-poisson-equation.png "3D Poisson Equation ")
 
 1. 2﻿D Poisson  Equation result 
 
