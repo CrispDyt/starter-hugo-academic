@@ -31,9 +31,11 @@ $﻿$\Delta$$
 
    ![](矩形区域训练结果.png "2D Poisson Equation with Rectangle Domain")
 
-   ![](三角形区域训练结果.png "3D Poisson Equation with Triangular Domain")
+   ![](三角形区域训练结果.png "2D Poisson Equation with Triangular Domain")
 
-   ![](圆形区域训练结果.png "3D Poisson Equation with round Domain")
+   ![](圆形区域训练结果.png "2D Poisson Equation with round Domain")
 
-   ![](五边形区域训练结果.png "3D Poisson Equation with pentagram Domain")
+   ![](五边形区域训练结果.png "2D Poisson Equation with pentagram Domain")
 2. 3﻿D Possion Equation result
+
+   ![](四面体区域训练结果.png "3D Possion Equation with tetrahedron domain")
