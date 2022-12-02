@@ -39,3 +39,7 @@ $﻿$\Delta$$
 2. 3﻿D Possion Equation result
 
    ![](四面体区域训练结果.png "3D Possion Equation with tetrahedron domain")
+
+   ![](圆柱区域训练结果.png "3D Possion Equation with cylinder domain")
+
+   ![](圆锥区域训练结果.png "3D Possion Equation with cone domain")
