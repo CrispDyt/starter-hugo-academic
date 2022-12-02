@@ -22,3 +22,8 @@ Physics-informed neural networks (PINNs), a new paradigm for solving partial dif
 (PDE), have attracted great attention due to its flexibility and simplicity. We use the PINNs method to solve 2D and 3D Possion Equations with rectangle，triangular, round and pentagram.
 
 <!--EndFragment-->
+
+1. 2﻿D Possion  Equation result 
+
+   ![](矩形区域训练结果.png "2D Possion Equation with Rectangle Boundary Shape")
+2. 3﻿D Possion Equation result
