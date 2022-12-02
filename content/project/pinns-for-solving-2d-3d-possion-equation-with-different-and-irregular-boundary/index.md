@@ -21,8 +21,6 @@ Physics-informed neural networks (PINNs), a new paradigm for solving partial dif
 
 T﻿he Poisson Equations are listed as follows:
 
-$﻿$\Delta$$
-
 ![](2d-poisson.png "2D Poisson Equation ")
 
 ![](3d-poisson-equation.png "3D Poisson Equation ")
