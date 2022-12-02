@@ -6,9 +6,8 @@ bio: Uncertianty Qualification/Statistics/Computational Mathematics/Knowing a
   little bit Economy
 interests:
   - Uncertainty Quantification
-  - Numerical Method in SPDE
   - Machine Learning
-  - Stochastics
+  - Statistics
 social:
   - icon: github
     icon_pack: fab
@@ -30,8 +29,10 @@ highlight_name: true
 ---
 I am an undergraduate student in grade 4 in **Reliability and System Engineering(RSE)** with a dual degree in **Economy** at **Beihang University**.
 
-My research field lies in **Uncertainty Quantification(UQ)** and my undergraduate professor is Wang Peng, an expert in uncertainty qualification. After graduation, driven by my academic enthusiasm in math, I plan to pursue graduate study in **UQ** or in **Applied** **Mathematics**. My research interests broadly cover the interdisciplinary fields of Computational Mathematics and Uncertianty Qulification in Stochastic System, currently focusing on the generalized Polynominal Chaos applications of stochastic system with small probability in failure which is my undergraduate dissertation. 
+My research field lies in **Uncertainty Quantification(UQ)** and my undergraduate professor is Wang Peng, an expert in uncertainty qualification. After graduation, driven by my academic enthusiasm for math, I plan to pursue graduate study in **UQ** or **Applied** **Mathematics**. My research interests broadly cover the interdisciplinary fields of Computational Mathematics and Uncertainty Quantification in Stochastic Systems, currently focusing on the generalized Polynomial Chaos applications of stochastic systems with small probability failure which is my undergraduate dissertation. 
 
-I plan to devote myself in uncertainty qualification problems in Computational Fluid Mechanics and Turbulence during my graduate study in UM, especially in topics about **UQ Problems** both in **Fluid-Structure Interaction System in Human Blood Vessels** and **Two-Phase** **Flow in Human Blood** or **Porous Media.**
+I plan to pursue a Ph.D. study in Engineering or Applied Mathematics. Now I devote myself to **Fault Diagnosis and Detection(FDD)** with probability eyesight, **multi-fidelity model data assimilation framework for Physics-Informed Neural Networks(PINNs),** and **uncertainty quantification problems in PINNs**.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
