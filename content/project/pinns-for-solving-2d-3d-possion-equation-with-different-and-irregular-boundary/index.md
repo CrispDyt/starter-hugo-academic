@@ -17,15 +17,15 @@ image:
   preview_only: false
 ---
 Physics-informed neural networks (PINNs), a new paradigm for solving partial differential equations\
-(PDE), have attracted great attention due to its flexibility and simplicity. We use the PINNs method to solve 2D and 3D Poisson Equations with rectangle, triangular, round and pentagram domains.   
+(PDE), have attracted great attention due to its flexibility and simplicity. We use the PINNs method to solve 2D Poisson Equation with rectangle, triangular, round and pentagram domains and 3D Poisson Equation with tetrahedron, cylinder, cone domains.
 
 T﻿he Poisson Equations are listed as follows:
 
 $﻿$\Delta$$
 
-![](possion.png "2D Poisson Equation ")
+![]( "2D Poisson Equation ")
 
-![](3d-possion-equation.png "3D Poisson Equation ")
+![]( "3D Poisson Equation ")
 
 1. 2﻿D Poisson  Equation result 
 
