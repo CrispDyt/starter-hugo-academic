@@ -12,7 +12,7 @@ tags:
   - Computational Mathematics
   - Deep Learning
 image:
-  filename: featured
+  filename: modified_mlp.png
   focal_point: Smart
   preview_only: false
 ---
