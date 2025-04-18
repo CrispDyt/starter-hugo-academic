@@ -1,9 +1,9 @@
 ---
 title: Yiting Duan
-role: Student of Reliability and System Engineering @ Beihang University
+role: Translational Research Institute (THRI)  @ Western Sydney University
 avatar_filename: avatar.jpg
-bio: Uncertianty Qualification/Statistics/Computational Mathematics/Knowing a
-  little bit Economy
+bio: Manifold Leanring/Nonlinear Dynamic System/Electrical Health Records Modeling/Knowing a
+  little bit Mathematics :)
 interests:
   - Uncertainty Quantification
   - Machine Learning
