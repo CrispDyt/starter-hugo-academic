@@ -1,7 +1,10 @@
 ---
 title: Machine learning for complex systems with abnormal pattern by exception maximization outlier detection
 authors:
-  - "Zhikun Zhang, Yiting Duan, Xiangjun Wang, Mingyuan Zhang"
+- Zhikun Zhang
+- Yiting Duan
+- Xiangjun Wang
+- Mingyuan Zhang
 date: 2025-4-1
 publication: "journal"
 link: "https://pubs.aip.org/aip/cha/article-abstract/35/4/043126/3343223/Machine-learning-for-complex-systems-with-abnormal?redirectedFrom=fulltext"
