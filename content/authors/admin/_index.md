@@ -33,12 +33,10 @@ email: "dyt907867257@163.com"
 superuser: false
 highlight_name: true
 ---
-I am an undergraduate student in grade 4 in **Reliability and System Engineering(RSE)** with a dual degree in **Economy** at **Beihang University**.
+I am a first-year PhD student at the **Translational Research Institute (THRI) & School of Computer, Data and Mathematical Science (CDMS)** at **Western Sydney University**. I completed my undergraduate studies at **Beihang University (BUAA)**, earning a bachelor's degree in **reliability and systems engineering**, as well as a double degree in **economics**. I then obtained my master's degree in **Mathematics** from the **University of Macau (UM)**, and I am currently pursuing a PhD in **data science** and **epidemiology**. My undergraduate thesis focused on evaluating small failure probabilities using the generalized polynomial chaos model (gPC), and my master's thesis addressed the regime shift of high-frequency limit order book data using deep learning methods with a change-point detection module.    
 
-My research field lies in **Uncertainty Quantification(UQ)** and my undergraduate professor is Wang Peng, an expert in uncertainty qualification. After graduation, driven by my academic enthusiasm for math, I plan to pursue graduate study in **UQ** or **Applied** **Mathematics**. My research interests broadly cover the interdisciplinary fields of Computational Mathematics and Uncertainty Quantification in Stochastic Systems, currently focusing on the generalized Polynomial Chaos applications of stochastic systems with small probability failure which is my undergraduate dissertation. 
+My research focuses on **Electronic Health Records (EHR) Modeling**, **Manifold Learning** and **Machine Learning**. My principle professor is Yi Guo, an expert in machine learning. My research interests broadly encompass the interdisciplinary fields of nonlinear dynamic systems, including **reservior computing**, **chaotic attractor reconstruction** and **ODE discovery**. I am also involved in **manifold Learning**, specifically **dimensionality reduction**, **manifold clustering** and **kernel joint embedding**, as well as **Neural Spatial-Temporal Point Process (NSTPP)**. Additionally, I am currently a researcher at WentWest, an Australia Primary Health Network institute, where I focus on heterogeneity and multi-model EHR datasets. My previous publications have focused on solving partial differential equations with spatio-temporal varying parameters using Physics-Informed Neural Networks (PINNs) and on an online fast fault detection method.  
 
-I plan to pursue a Ph.D. study in Engineering or Applied Mathematics. Now I devote myself to **Fault Diagnosis and Detection(FDD)** with probability eyesight, **multi-fidelity model data assimilation framework for Physics-Informed Neural Networks(PINNs),** and **uncertainty quantification problems in PINNs**.
-
-
+If you want to work with me, don't hesitate and feel free to contact me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
