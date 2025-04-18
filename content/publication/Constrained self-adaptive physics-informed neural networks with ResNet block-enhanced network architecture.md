@@ -3,8 +3,7 @@ title: Constrained self-adaptive physics-informed neural networks with ResNet bl
 authors:
   - "Guangtao Zhang, Huiyu Yang, Guanyu Pan, Yiting Duan, Fang Zhu, Yang Chen"
 date: 2023-2-22
-publication_types:
-  - "article"
+publication_types: "article"
 publication: "journal"
 link: "https://www.mdpi.com/2227-7390/11/5/1109"
 doi: "10.3390/math11051109"
