@@ -19,5 +19,5 @@ tags:
 - Physics-Informed Neural Networks
 - Machine Learning
 - Constrained Self-Adaptive
-- "ResNet Block-Enhanced Network
+- ResNet Block-Enhanced Network
 ---
