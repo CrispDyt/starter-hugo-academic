@@ -1,29 +1,35 @@
 ---
 title: Yiting Duan
-role: Translational Research Institute (THRI)  @ Western Sydney University
+role: Translational Research Institute (THRI) & School of Computer, Data and Mathematical Science (CDMS)  @ Western Sydney University
 avatar_filename: avatar.jpg
-bio: Manifold Leanring/Nonlinear Dynamic System/Electrical Health Records Modeling/Knowing a
-  little bit Mathematics :)
+bio: Manifold Leanring/Machine Learning/Electronic Health Records Modeling/Knowing a
+  little bit Mathematics (Nonlinear Dynamic System) :)
 interests:
-  - Uncertainty Quantification
+  - Manifold Learning
+  - Electrical Health Records Modeling
   - Machine Learning
-  - Statistics
 social:
   - icon: github
     icon_pack: fab
     link: https://github.com/CrispDyt
 organizations:
-  - name: Beihang University
-    url: https://www.buaa.edu.cn/
+  - name: Western Sydney University (Parramatta South)
+    url: https://www.westernsydney.edu.au/future/our-campuses/parramatta-south-campus
 education:
   courses:
+    - course: Doctor of Philosophy
+      institution: Western Sydney University
+      year: 2027 (Expectation)
+    - course: Msc in Mathematics
+      institution: University of Macau
+      year: 2024
     - course: BEng in Reliability and System Engineering
       institution: Beihang University
       year: 2022
     - course: Economy
       institution: Beihang University
       year: 2022
-email: ""
+email: "dyt907867257@163.com"
 superuser: false
 highlight_name: true
 ---
