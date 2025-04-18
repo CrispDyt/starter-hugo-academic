@@ -9,7 +9,7 @@ authors:
 - Yang Chen
 date: "2023-02-22"
 doi: "10.3390/math11051109"
-publication_types: 1
+publication_types: ["2"]
 
 publication: "Mathematics"
 url_pdf: "https://www.mdpi.com/2227-7390/11/5/1109"
