@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: Manifold Leanring/Machine Learning/Electronic Health Records Modeling/Knowing a
   little bit Mathematics (Nonlinear Dynamic System) :)
 interests:
-  - Manifold Learning
-  - Electrical Health Records Modeling
+  - Dynamical Systems
   - Machine Learning
+  - Public Health
 social:
   - icon: github
     icon_pack: fab
