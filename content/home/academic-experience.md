@@ -24,7 +24,7 @@ experience:
     company: South Western Emergency Research Institute (SWERI)
     location: Sydney
     date_start: '2025-09-01'
-    date_end: '2026-02-28'
+    date_end: '2026-04-30'
     description: |2-
         Responsibilities include:
 

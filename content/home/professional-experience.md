@@ -63,18 +63,6 @@ experience:
         * Invited by the Royal Edinburgh Military Tatoo and became the first non-professional Orchestra Band and the Second Chinese Orchestra Band in the history to attend the 2019th Edinburgh Military Tattoo in Edinburgh
 
 
-  - title: Member of Social Practice Team of Qiang Culture in Beichuan
-    company: ZhenZhen Social Practice Team
-    company_url: 'https://mp.weixin.qq.com/s/PUjfxyn1Tt-BDk8_iBuunA'
-    location: Wenchuan Sichuan
-    date_start: '2019-01-06'
-    date_end: '2019-01-20'
-    description: |2-
-        Responsibilities include:
-        
-        * Research construction and settlement work after 5-12 Wenchuan Earchquake
-        * Communicated with local community and government and established Social Research basement of ZhenZhen & Wenchan Museum
-        * Had an interview with an inheritance of Nonphysical Heritage Qiang and finally finished a research report
 
 design:
   columns: '2'
