@@ -7,7 +7,6 @@ authors:
 date: "2026-01-30"
 publication_types: ["2"]
 publication: "**Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences** (accepted)"
-publication_short: "Proc. R. Soc. A (accepted)"
 featured: true
 summary: "Representative work. Accepted by Proceedings of the Royal Society A. A measure-theoretic framework quantifying the ambiguity caused by non-injective time-delay reconstruction maps, with intrinsic stochasticity as a diagnostic for selecting reconstruction maps."
 link: "https://arxiv.org/abs/2601.22814"
