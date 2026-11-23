@@ -1,9 +1,7 @@
 ---
 title: Yiting Duan
-role: Translational Research Institute (THRI) & School of Computer, Data and Mathematical Science (CDMS)  @ Western Sydney University
 avatar_filename: avatar.jpg
-bio: Manifold Leanring/Machine Learning/Electronic Health Records Modeling/Knowing a
-  little bit Mathematics (Nonlinear Dynamic System) :)
+bio: Dynamical Systems / Machine Learning / Public Health
 interests:
   - Dynamical Systems
   - Machine Learning
@@ -12,9 +10,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/CrispDyt
-organizations:
-  - name: Western Sydney University (Parramatta South)
-    url: https://www.westernsydney.edu.au/future/our-campuses/parramatta-south-campus
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=fDilPVUAAAAJ&hl=zh-CN
 education:
   courses:
     - course: Doctor of Philosophy
@@ -33,9 +31,9 @@ email: "dyt907867257@163.com"
 superuser: false
 highlight_name: true
 ---
-I am a first-year PhD student at the **Translational Research Institute (THRI) & School of Computer, Data and Mathematical Science (CDMS)** at **Western Sydney University**. I completed my undergraduate studies at **Beihang University (BUAA)**, earning a bachelor's degree in **reliability and systems engineering**, as well as a double degree in **economics**. I then obtained my master's degree in **Mathematics** from the **University of Macau (UM)**, and I am currently pursuing a PhD in **data science** and **epidemiology**. My undergraduate thesis focused on evaluating small failure probabilities using the generalized polynomial chaos model (gPC), and my master's thesis addressed the regime shift of high-frequency limit order book data using deep learning methods with a change-point detection module.    
+I am a PhD candidate at the **Translational Health Research Institute (THRI)** at **Western Sydney University**. I completed my undergraduate studies at **Beihang University (BUAA)**, earning a bachelor's degree in **engineering** and **economics**. I then obtained my master's degree in **Mathematics** from the **University of Macau (UM)**, and my PhD is partially funded by the **Western Sydney Primary Health Network**.
 
-My research focuses on **Electronic Health Records (EHR) Modeling**, **Manifold Learning** and **Machine Learning**. My principle professor is Yi Guo, an expert in machine learning. My research interests broadly encompass the interdisciplinary fields of nonlinear dynamic systems, including **reservior computing**, **chaotic attractor reconstruction** and **ODE discovery**. I am also involved in **manifold Learning**, specifically **dimensionality reduction**, **manifold clustering** and **kernel joint embedding**, as well as **Neural Spatial-Temporal Point Process (NSTPP)**. Additionally, I am currently a researcher at WentWest, an Australia Primary Health Network institute, where I focus on heterogeneity and multi-model EHR datasets. My previous publications have focused on solving partial differential equations with spatio-temporal varying parameters using Physics-Informed Neural Networks (PINNs) and on an online fast fault detection method.  
+My research focuses on **dynamical systems**, in particular the **information loss** that arises when nonlinear dynamical systems are only partially observed. Using tools from **measure-theoretic optimal transport**, I have found answers to a number of interesting questions in this setting, such as quantifying the information loss of partially observed systems, selecting the optimal observability, and resolving the information loss caused by long-term operator rollouts through **recurrence graph measures**. On the application side, I am interested in **optimal control** problems in **system dynamics modelling**. I am currently developing **measure-theoretic test-time recursive self-improvement** models, which I hope to apply to predicting **temporally sparse patient trajectories**.
 
 If you want to work with me, don't hesitate and feel free to contact me.
 
